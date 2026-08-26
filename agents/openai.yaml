@@ -1,0 +1,4 @@
+interface:
+  display_name: "iOS 26 Component Modernizer"
+  short_description: "Modernize iOS components for iOS 26+"
+  default_prompt: "Use $ios-26-component-modernizer to audit and modernize these SwiftUI or UIKit components for iOS 26+."
